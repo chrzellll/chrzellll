@@ -1,3 +1,4 @@
+![](https://github.com/chrzellll/laboratories/blob/main/Laboratory%203/Blue%20and%20White%20Modern%20Business%20Profile%20LinkedIn%20Banner.png)
 # 💫 About Me:
 🔭 I’m currently an engineering student<br>🤝 I’m looking for help with Statics<br>🌱 I’m currently learning Differential Equation<br>💬 Ask me about songs
 
