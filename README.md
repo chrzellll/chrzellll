@@ -1,4 +1,6 @@
 ![](https://github.com/chrzellll/laboratories/blob/main/Laboratory%203/Profile%20Banner.png)
+
+"Shaping Skylines, One Calculation at a Time"
 # 💫 About Me:
 🔭 I’m currently an engineering student<br>🤝 I’m looking for help with Statics<br>🌱 I’m currently learning Differential Equation<br>💬 Ask me about songs
 
