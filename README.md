@@ -1,4 +1,4 @@
-![](https://github.com/chrzellll/Elective-Laboratory/blob/main/Laboratory%202/branding/banner/Profile%20Banner.png)
+![](https://github.com/chrzellll/Elective-Laboratory/blob/main/Laboratory%202%20/branding%20/banner/Profile%20Banner.png)
 
 "Shaping Skylines, One Calculation at a Time"
 # 💫 About Me:
